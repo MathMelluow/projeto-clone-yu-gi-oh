@@ -38,7 +38,7 @@
 
 }
 
-@media(max-width: 375px) {
+@media(max-width: 360px) {
     body {
         justify-content: start;
         position: top 10px;
